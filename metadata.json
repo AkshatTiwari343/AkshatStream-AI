@@ -1,0 +1,8 @@
+{
+  "name": "AkshatStream AI",
+  "description": "Premium cinematic video streaming platform with integrated Gemini Veo 3.1 creation tools and AI-driven content analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
